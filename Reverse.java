@@ -5,7 +5,7 @@ public class Reverse
 	 public static void main(String[] args) 
 	 {
 
-	  String str1 = "Muskan";
+	  String str1 = "mummypapa";
 	  String d= "";
 
 	  for (int i = str1.length() - 1; i >= 0; --i) {
